@@ -351,17 +351,6 @@ No external API keys are required. All weather, AQI, and traffic data uses reali
 
 ---
 
-## Team
-
-| Role                    | Name |
-|-------------------------|------|
-| Full Stack Development  | —    |
-| ML / AI                 | —    |
-| Design                  | —    |
-| Product                 | —    |
-
----
-
 ## License
 
 MIT License — free to use, modify, and distribute.
